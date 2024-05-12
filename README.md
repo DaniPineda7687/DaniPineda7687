@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="100%" src="https://free4kwallpapers.com/uploads/wallpaper/minimal-dark-coding-wallpaper-2560x1440-wallpaper.jpg"  />
+  <img height="150" width="100%" style="object-fit:cover;" src="https://free4kwallpapers.com/uploads/wallpaper/minimal-dark-coding-wallpaper-2560x1440-wallpaper.jpg"  />
 </div>
 
 ###
